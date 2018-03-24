@@ -9,7 +9,7 @@ namespace TravelingSalesmanProblem
 {
     public class PointKeeper
     {      
-        public static List<Point> GetPreset()
+        public static List<Point> GetTestPreset()
         {
             return new List<Point>()
             {
